@@ -1,10 +1,11 @@
-package com.activeup.testcustomads;
+package com.ismadev.testcustomads;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.activeup.objetos.CustomAds;
+import com.ismadev.coustomads.CustomAds;
+
 
 public class MainActivity extends AppCompatActivity {
 

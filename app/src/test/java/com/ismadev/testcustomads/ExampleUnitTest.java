@@ -1,4 +1,4 @@
-package com.activeup.testcustomads;
+package com.ismadev.testcustomads;
 
 import org.junit.Test;
 
