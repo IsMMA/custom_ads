@@ -1,2 +1,3 @@
 rootProject.name = "testcustomads"
 include ':app'
+include ':CustomAds'

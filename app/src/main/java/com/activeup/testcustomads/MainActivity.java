@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         CustomAds customAds = new CustomAds(this);
         customAds.setDescripcion("Courstube, cursos gratis de todo tipo. Descarga la APP gratis");
         customAds.setImage(R.drawable.ic_launcher_background);
+        customAds.setURLButton("https://play.google.com/store/apps/details?id=com.courstube");
         customAds.show();
 
     }
