@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">testcustomads</string>
+    <string name="instalar">Installer</string>
+    <string name="visitar">Visite</string>
+    <string name="cerrar">Fermer</string>
+    <string name="anuncio">Annonce</string>
+</resources>

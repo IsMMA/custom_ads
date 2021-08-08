@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">testcustomads</string>
-    <string name="instalar">Instalar</string>
-    <string name="visitar">Visitar</string>
-    <string name="cerrar">Cerrar</string>
+    <string name="instalar">Install</string>
+    <string name="visitar">Visit</string>
+    <string name="cerrar">Close</string>
+    <string name="anuncio">Ads</string>
 </resources>
